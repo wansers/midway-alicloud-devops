@@ -1,5 +1,5 @@
 {
-  "name": "@wansers/midway-alicloudDevops",
+  "name": "midway-alicloudDevops",
   "private": false,
   "version": "1.0.0",
   "description": "This is a midway component fro alicloud devops SDK",
