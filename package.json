@@ -1,7 +1,7 @@
 {
   "name": "midway-alicloud-devops",
   "private": false,
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This is a midway component fro alicloud devops SDK",
   "main": "dist/index.js",
   "typings": "index.d.ts",
