@@ -1,4 +1,4 @@
-# midway-alicloudDevops
+# midway-alicloud-devops
 this is a midway component for alicloudDevops SDK.
 ###### 用于快捷使用阿里云云效SDK的接口
 
@@ -7,7 +7,7 @@ this is a midway component for alicloudDevops SDK.
 ## Install
 
 ```bash
-pnpm add midway-alicloudDevops @alicloud/tea-util
+pnpm add midway-alicloud-devops @alicloud/tea-util
 ```
 ## config for midwayjs config-default.ts
 ```typescript jsx
